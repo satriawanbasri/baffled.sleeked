@@ -1,0 +1,10 @@
+C:\Users\User\Downloads\baffled.sleeked\bin\Debug\netcoreapp3.1\baffled.sleeked.deps.json
+C:\Users\User\Downloads\baffled.sleeked\bin\Debug\netcoreapp3.1\baffled.sleeked.dll
+C:\Users\User\Downloads\baffled.sleeked\bin\Debug\netcoreapp3.1\baffled.sleeked.pdb
+C:\Users\User\Downloads\baffled.sleeked\obj\Debug\netcoreapp3.1\baffled.sleeked.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\baffled.sleeked\obj\Debug\netcoreapp3.1\baffled.sleeked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\baffled.sleeked\obj\Debug\netcoreapp3.1\baffled.sleeked.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\baffled.sleeked\obj\Debug\netcoreapp3.1\baffled.sleeked.AssemblyInfo.cs
+C:\Users\User\Downloads\baffled.sleeked\obj\Debug\netcoreapp3.1\baffled.sleeked.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\baffled.sleeked\obj\Debug\netcoreapp3.1\baffled.sleeked.dll
+C:\Users\User\Downloads\baffled.sleeked\obj\Debug\netcoreapp3.1\baffled.sleeked.pdb
